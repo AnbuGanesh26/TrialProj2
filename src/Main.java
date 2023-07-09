@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Hello world!   24");
 
         System.out.println("Hello world!   25");
+        System.out.println("Hello world!   26");
 
         //This is new line
         //This is new line
