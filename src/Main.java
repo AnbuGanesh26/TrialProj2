@@ -3,7 +3,10 @@ public class Main {
         System.out.println("Hello world!   22");
 
         System.out.println("Hello world!   23");
+
         System.out.println("Hello world!   24");
+        System.out.println("Hello world!   24");
+
         System.out.println("Hello world!   25");
 
     }
